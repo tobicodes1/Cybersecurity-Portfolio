@@ -8,7 +8,7 @@ I am documenting my journey towards becoming a SOC Analyst by completing practic
 
 ## 📅 Weekly Summaries
 
-= soon.
+- Week 1 – Intro to Cyber Security & Pre Security
 
 ---
 
